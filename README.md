@@ -28,7 +28,7 @@
      pip3.11 install pip --upgrade
      pip3.11 install rich pytz bs4 pycryptodomex
      git clone https://github.com/luxinedev/CreateIG
-     cd Prem
+     cd CreateIG
      python main.py
   ```
 ### Note
